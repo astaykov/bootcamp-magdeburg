@@ -7,7 +7,7 @@ using Microsoft.Owin.Security.Google;
 using Owin;
 using BootcampBerlin.Models;
 
-namespace BootcampBerlin
+namespace BootcampMagdeburg
 {
     public partial class Startup
     {

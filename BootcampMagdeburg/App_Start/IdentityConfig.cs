@@ -12,7 +12,7 @@ using Microsoft.Owin;
 using Microsoft.Owin.Security;
 using BootcampBerlin.Models;
 
-namespace BootcampBerlin
+namespace BootcampMagdeburg
 {
     public class EmailService : IIdentityMessageService
     {

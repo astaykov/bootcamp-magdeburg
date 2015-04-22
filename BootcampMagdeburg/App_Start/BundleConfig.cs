@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Optimization;
 
-namespace BootcampBerlin
+namespace BootcampMagdeburg
 {
     public class BundleConfig
     {

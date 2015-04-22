@@ -1,8 +1,8 @@
 ﻿using Microsoft.Owin;
 using Owin;
 
-[assembly: OwinStartupAttribute(typeof(BootcampBerlin.Startup))]
-namespace BootcampBerlin
+[assembly: OwinStartupAttribute(typeof(BootcampMagdeburg.Startup))]
+namespace BootcampMagdeburg
 {
     public partial class Startup
     {
